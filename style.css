@@ -92,7 +92,8 @@ button,a{
 }
 
 .bg-color{
-    background-color: var(--bs-dark-color);
+    /* background-color: var(--bs-dark-color); */
+    background-color: #022f3df7;
 }
 
 .text-light-grey{
